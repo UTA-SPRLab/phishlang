@@ -9,9 +9,9 @@ This repository includes:
 - **Client-Side Browser Extension**: A client-side implementation of PhishLang as a browser extension for Chromium-based browsers, enabling local inference without relying on online blocklists. The extension runs efficiently even on low-end systems, with no noticeable impact on browsing speed.
 
 ### Cite our paper:
-
+```
 @article{roy2024utilizing, title={Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites}, author={Roy, Sayak Saha and Nilizadeh, Shirin}, journal={arXiv preprint arXiv:2408.05667}, year={2024} }
-
+```
 
 ## Client-side app: Installation Instructions
 
