@@ -1,6 +1,6 @@
 # PhishLang
 
-**Repository for paper**: *Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites* [(arXiv link)](https://arxiv.org/abs/2408.05667)
+**Repository for paper**: *PhishLang: A Lightweight, Client-Side Phishing Detection Framework using MobileBERT for Real-Time, Explainable Threat Mitigation* [(arXiv link)](https://arxiv.org/abs/2408.05667)
 
 PhishLang is an open-source, lightweight language model (based on MobileBERT) specifically designed for phishing website detection through contextual analysis of website content.
 
