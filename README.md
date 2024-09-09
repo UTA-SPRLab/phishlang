@@ -29,8 +29,8 @@ For any Chromium-based browser (Google Chrome, Brave, Microsoft Edge, etc.):
 
 Screenshots:
 
-# ![Alt text](/screenshots/warning_page.png?raw=true "PhishLang Warning page")
-# ![Alt text](/screenshots/popup_menu.png?raw=true "PhishLang popup menu")
+# ![Alt text](/phishlang_clientside_app/screenshots/warning_page.png?raw=true "PhishLang Warning page")
+# ![Alt text](/phishlang_clientside_app/screenshots/popup_menu.png?raw=true "PhishLang popup menu")
 
 
 ## Running the Model
