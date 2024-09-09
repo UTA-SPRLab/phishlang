@@ -1,5 +1,18 @@
 # PhishLang
 
+**Repository for paper**: *Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites* [(arXiv link)](https://arxiv.org/abs/2408.05667)
+
+PhishLang is an open-source, lightweight language model (based on MobileBERT) specifically designed for phishing website detection through contextual analysis of website content.
+
+This repository includes:
+- **PhishLang Model**: Implementation of the PhishLang model for detecting phishing websites.
+- **Client-Side Browser Extension**: A client-side implementation of PhishLang as a browser extension for Chromium-based browsers, enabling local inference without relying on online blocklists. The extension runs efficiently even on low-end systems, with no noticeable impact on browsing speed.
+
+### Cite our paper:
+
+@article{roy2024utilizing, title={Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites}, author={Roy, Sayak Saha and Nilizadeh, Shirin}, journal={arXiv preprint arXiv:2408.05667}, year={2024} }
+
+
 ## Client-side app: Installation Instructions
 
 ### Step 1: Install the Client-Side Service
@@ -38,7 +51,7 @@ Screenshots:
 1. Install dependencies by running: 
    pip3 install -r requirements.txt
 
-2. Extract the training data from `training_data/parsed_samples.zip`.
+2. Combine the training data into one single file. Navigate to folder training_data and run: cat parsed_samples_part_* > parsed_samples_combined.zip
 
 3. Start the training process: 
    python3 training.py full
