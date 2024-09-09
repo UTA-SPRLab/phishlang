@@ -10,7 +10,11 @@ This repository includes:
 
 ### Cite our paper:
 ```
-@article{roy2024utilizing, title={Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites}, author={Roy, Sayak Saha and Nilizadeh, Shirin}, journal={arXiv preprint arXiv:2408.05667}, year={2024} }
+@article{roy2024utilizing, 
+title={Utilizing Large Language Models to Optimize the Detection and Explainability of Phishing Websites}, 
+author={Roy, Sayak Saha and Nilizadeh, Shirin}, 
+journal={arXiv preprint arXiv:2408.05667}, 
+year={2024} }
 ```
 
 ## Client-side app: Installation Instructions
