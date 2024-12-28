@@ -21,7 +21,7 @@ year={2024} }
 
 ### Step 1: Install the Client-Side Service
 
-1. Navigate to the folder containing `phishlang.deb`.
+1. Navigate to the folder 'phishlang_clientside_app' containing `installer.deb`.
 2. Enter the following command in the terminal:
 
    sudo dpkg -i phishlang.deb
